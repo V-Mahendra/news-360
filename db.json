@@ -1,0 +1,264 @@
+{ 
+    "articles": [
+    {
+    "source": {
+    "id": "fox-news",
+    "name": "Fox News"
+    },
+    "author": "Kristine Parks",
+    "title": "Backlash ensues as President Biden suggests inflation a 'chance' to make 'fundamental turn' to clean energy - Fox News",
+    "description": "President Biden faced backlash on Twitter for appearing to admit that inflation and high gas prices were a \"chance\" to make \"a fundamental turn\" to green energy.",
+    "url": "https://www.foxnews.com/media/backlash-ensues-president-biden-suggests-inflation-chance-make-fundamental-turn-clean-energy",
+    "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/03/Joe-Biden.jpg",
+    "publishedAt": "2022-06-20T22:02:45Z",
+    "content": "President Biden faced backlash after appearing to suggest that high gas prices will be a \"good\" opportunity to make a fundamental turn\" to clean energy on Monday. \r\nSome conservatives called the pres… [+2501 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "CNBC"
+    },
+    "author": "Yun Li",
+    "title": "S&P 500 futures rise 1% as the market is set to rebound from a brutal week - CNBC",
+    "description": "Major averages suffered their 10th losing week in 11 on fears that the Fed will hike rates aggressively to tame inflation at the risk of causing a recession.",
+    "url": "https://www.cnbc.com/2022/06/20/stock-market-news-futures-open-to-close.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/107077287-NYSE-Trading-Floor-Photo-20220616-Press-6.jpg?v=1655412378&w=1920&h=1080",
+    "publishedAt": "2022-06-20T22:01:04Z",
+    "content": "Stock futures rose in overnight trading Monday following a brutal week as investors assessed a more aggressive Federal Reserve and rising chances of a recession.\r\nFutures on the Dow Jones Industrial … [+1844 chars]"
+    },
+    {
+    "source": {
+    "id": "the-verge",
+    "name": "The Verge"
+    },
+    "author": "Antonio G. Di Benedetto",
+    "title": "ProShares's latest ETF lets you bet against Bitcoin - The Verge",
+    "description": "There’s an SEC-approved way to bet against Bitcoin, but not yet a way to buy the cryptocurrency with the same methods of an exchange-traded fund.",
+    "url": "https://www.theverge.com/2022/6/20/23176105/sec-etf-short-bitcoin-proshares-nyse",
+    "urlToImage": "https://cdn.vox-cdn.com/thumbor/snf_hJFpl6LPXY7EstdFF4nvmZs=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23587767/acastro_220524_STK428_0003.jpg",
+    "publishedAt": "2022-06-20T21:53:27Z",
+    "content": "The SEC approved a way to bet against Bitcoin before allowing you to buy Bitcoin itself with an ETF\r\nIllustration by Alex Castro / The Verge\r\nTheres good news for people who find bad news about crypt… [+1870 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Fox Business"
+    },
+    "author": "Bradford Betz",
+    "title": "China bans Tesla cars from driving in cities where Communist Party leaders meet - Fox Business",
+    "description": "Tesla drivers will soon be banned from entering the Chinese coastal district of Beidaihe where senior CCP leaders will be holding their annual meeting.",
+    "url": "https://www.foxbusiness.com/politics/china-bans-tesla-driving-cities-communist-leaders",
+    "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2022/06/0/0/Tesla-Cars.jpg?ve=1&tl=1",
+    "publishedAt": "2022-06-20T21:27:07Z",
+    "content": "Tesla drivers in China will soon be banned from entering the coastal district of Beidaihe, the area where leaders of the Chinese Communist Party will gather for their annual meeting, according to pol… [+1290 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Decrypt"
+    },
+    "author": "Kate Irwin",
+    "title": "Bitcoin Investors Lose Record $7.3 Billion in Three Days - Decrypt",
+    "description": "How close is Bitcoin to finally bottoming out?",
+    "url": "https://decrypt.co/103369/bitcoin-investors-lose-record-7-3-billion-in-three-days",
+    "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/06/kanchanara-9pCV2MB65y8-unsplash-scaled-e1655758906172-gID_4.jpg",
+    "publishedAt": "2022-06-20T21:10:49Z",
+    "content": "The Bitcoin selloff from Thursday to Saturday marked the largest realized loss ever for the top cryptocurrency by market cap, with investors recording $7.3 billion of locked-in losses.\r\nAbout 555,000… [+2272 chars]"
+    },
+    {
+    "source": {
+    "id": "cnn",
+    "name": "CNN"
+    },
+    "author": "Catherine Thorbecke, CNN Business",
+    "title": "Biden says he is 'proud' of Apple retail workers who unionized - CNN",
+    "description": "President Joe Biden said he was \"proud\" of Apple's retail workers in Towson, Maryland, who voted this weekend to form the first-ever labor union at one of the tech giant's US stores.",
+    "url": "https://www.cnn.com/2022/06/20/tech/biden-apple-union-proud/index.html",
+    "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220620143515-joe-biden-062022-super-tease.jpg",
+    "publishedAt": "2022-06-20T20:39:00Z",
+    "content": "(CNN Business)President Joe Biden said he was \"proud\" of Apple's retail workers in Towson, Maryland, who voted this weekendto form the first-ever labor union at one of the tech giant's US stores.\r\n\"I… [+2610 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Marketplace.org"
+    },
+    "author": null,
+    "title": "Are rising mortgage rates already cooling the hot real estate market? - Marketplace",
+    "description": "The number of pending sales is down from last year, but homes are still selling quickly.",
+    "url": "https://www.marketplace.org/2022/06/20/are-rising-mortgage-rates-already-cooling-the-hot-real-estate-market/",
+    "urlToImage": "https://www.marketplace.org/wp-content/uploads/2022/06/GettyImages-1240449958.jpg?w=1200",
+    "publishedAt": "2022-06-20T20:36:40Z",
+    "content": "On Tuesday, the National Association of Realtors will release the latest data on sales of existing homes. The numbers are expected to offer a closer look at the big shift underway in the U.S. housing… [+2155 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Fox Business"
+    },
+    "author": "Daniella Genovese",
+    "title": "Freshpet recalls dog food due to potential salmonella contamination - Fox Business",
+    "description": "Freshpet is recalling a lot of its dog food that was sold at major retailers in over a dozen states due to fears that it may be contaminated with salmonella.",
+    "url": "https://www.foxbusiness.com/lifestyle/freshpet-recalls-dog-food-due-potential-salmonella-contamination",
+    "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/02/0/0/dogs-feeding-iStock.jpg?ve=1&tl=1",
+    "publishedAt": "2022-06-20T19:29:55Z",
+    "content": "Dog food sold in more than a dozen states is being recalled over fears that it may be contaminated with salmonella. \r\nFreshpet Inc. is voluntarily recalling a single lot of its Freshpet Select Fresh … [+1997 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "New York Post"
+    },
+    "author": "Karol Markowicz",
+    "title": "Cheers to Elon Musk for finally saying 'no' to whiny, entitled millennial babies - New York Post ",
+    "description": "Employees of spaceflight company Space X released an open letter criticizing their CEO Elon Musk. Less than 48 hours later, at least five employees who orchestrated the letter were fired.",
+    "url": "https://nypost.com/2022/06/20/cheers-to-elon-musk-for-saying-no-to-entitled-millennial-babies/",
+    "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2022/06/elon-musk-3.jpg?quality=75&strip=all&w=1024",
+    "publishedAt": "2022-06-20T19:20:00Z",
+    "content": "A few days ago, employees of spaceflight company Space X released an open letter criticizing their CEO Elon Musk. Less than 48 hours later, at least five employees who orchestrated the letter were fi… [+3940 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "YouTube"
+    },
+    "author": null,
+    "title": "UK braces for biggest rail strikes in 30 years after last minute talks fail - Channel 4 News",
+    "description": "Union leaders say they have \"no choice\" but to go ahead with this week's train strikes, blaming Government cuts for 'hobbling the industry'. Ministers in tur...",
+    "url": "https://www.youtube.com/watch?v=1aUytWjVU9Q",
+    "urlToImage": "https://i.ytimg.com/vi/1aUytWjVU9Q/hqdefault.jpg",
+    "publishedAt": "2022-06-20T19:18:16Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "New York Post"
+    },
+    "author": "MaryAnn Martinez",
+    "title": "American Airline drops some New York flights due to pilot shortage - New York Post ",
+    "description": "Texas-based American Airlines will be cancelling flights to Ithaca and Islip, New York.",
+    "url": "https://nypost.com/2022/06/20/american-airline-drops-some-ny-flights-due-to-pilot-shortage/",
+    "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2022/06/american-airlines-pilot-shortage-04.jpg?quality=75&strip=all&w=1024",
+    "publishedAt": "2022-06-20T19:17:00Z",
+    "content": "Texas-based American Airlines will be cancelling flights to Ithaca and Islip, New York, as well as Toledo, Ohio, in September, blaming a lack of pilots, according to local reports.\r\nIn response to th… [+2663 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Cointelegraph"
+    },
+    "author": "Marcel Pechman",
+    "title": "Bitcoin futures enter backwardation for the first time in a year - Cointelegraph",
+    "description": "Risk-averse BTC derivatives traders throw in the towel after futures contracts trade below the spot market price.",
+    "url": "https://cointelegraph.com/news/bitcoin-futures-enter-backwardation-for-the-first-time-in-a-year",
+    "urlToImage": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjItMDYvMDc1YjIzMGItNDRjMS00ZjAyLWEyZTUtMGJiMDQ1MjI0MzUyLmpwZw==.jpg",
+    "publishedAt": "2022-06-20T19:09:00Z",
+    "content": "Bitcoin's (BTC) month-to-date chart is very bearish, and the sub-$18,000 level seen over the weekend was the lowest price seen since December 2020. Bulls' current hope depends on turning $20,000 to s… [+4407 chars]"
+    },
+    {
+    "source": {
+    "id": "cnn",
+    "name": "CNN"
+    },
+    "author": "Caroline Curran",
+    "title": "The best sales to shop today: Samsung, Moon Pod, Blue Yeti and more - CNN",
+    "description": "Today, you’ll find a deal on sunscreen, discounted Beats Fit Pro and savings on a Blue Yeti Microphone. All that and more below.",
+    "url": "https://www.cnn.com/2022/06/20/cnn-underscored/deals/best-online-sales-right-now",
+    "urlToImage": null,
+    "publishedAt": "2022-06-20T19:05:00Z",
+    "content": "Today, youll find a deal on sunscreen, discounted Beats Fit Pro and savings on a Blue Yeti Microphone. All that and more below.\r\nRight now you can save big on tech essentials, thanks to the Discover … [+4727 chars]"
+    },
+    {
+    "source": {
+    "id": "cnn",
+    "name": "CNN"
+    },
+    "author": "Parija Kavilanz, CNN Business",
+    "title": "Tampon shortage: Instacart says it's struggling to fulfill orders - CNN",
+    "description": null,
+    "url": "https://www.cnn.com/2022/06/20/business/tampon-shortage-instacart/index.html",
+    "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220620122805-us-tampon-shortage-0614-super-tease.jpg",
+    "publishedAt": "2022-06-20T18:59:00Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "The Daily Hodl"
+    },
+    "author": "Daily Hodl Staff",
+    "title": "Analyst Who Saw 2022 Bitcoin Crash Coming Updates BTC and Ethereum Forecast, Issues Fresh Alert for Crypto ... - The Daily Hodl",
+    "description": "A popular crypto strategist who has accurately signaled the alarm about tumbling crypto prices is now updating his forecast for the top two digital assets.",
+    "url": "https://dailyhodl.com/2022/06/20/analyst-who-saw-2022-bitcoin-crash-coming-updates-btc-and-ethereum-forecast-issues-fresh-alert-for-crypto-traders/",
+    "urlToImage": "https://dailyhodl.com/wp-content/uploads/2022/06/analyst-crash-coming.jpg",
+    "publishedAt": "2022-06-20T18:10:33Z",
+    "content": "A popular crypto strategist who has accurately sounded the alarm on crashing crypto prices this year is now updating his forecast for the top two digital assets.\r\nThe pseudonymous crypto trader known… [+2335 chars]"
+    },
+    {
+    "source": {
+    "id": "reuters",
+    "name": "Reuters"
+    },
+    "author": null,
+    "title": "Oil swings higher as tight supplies overshadow demand destruction - Reuters",
+    "description": "Oil prices swung higher in volatile trading on Monday, as traders focused on tight supplies over slowing global economic growth.",
+    "url": "https://www.reuters.com/business/energy/oil-wobbly-after-near-6-slump-economic-concerns-2022-06-20/",
+    "urlToImage": "https://www.reuters.com/resizer/Jizf4nOFVaBSfHM470SXNrQsshI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/PSBP264OWBPC3E4LYJTEWN74SA.jpg",
+    "publishedAt": "2022-06-20T17:56:00Z",
+    "content": "LONDON, June 20 (Reuters) - Oil prices swung higher in volatile trading on Monday, as traders focused on tight supplies over slowing global economic growth.\r\nBrent crude futures settled up $1.01, or … [+2880 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Kitco NEWS"
+    },
+    "author": "http://www.facebook.com/kitconews",
+    "title": "It's a good time to be a gold investor even as the Fed raises rates - Invesco's Hooper - Kitco NEWS",
+    "description": "Kitco News' general-interest stories takes a look at what is making headlines in the marketplace and how that is impacting precious metals prices",
+    "url": "https://www.kitco.com/news/2022-06-20/It-s-a-good-time-to-be-a-gold-investor-even-as-the-Fed-raises-rates-Invesco-s-Hooper.html",
+    "urlToImage": "https://www.kitco.com/news/2022-06-20/images/Goldbar2.png",
+    "publishedAt": "2022-06-20T17:52:00Z",
+    "content": "Editor's Note: With so much market volatility, stay on top of daily news! Get caught up in minutes with our speedy summary of today's must-read news and expert opinions. Sign up here! \r\n(Kitco News) … [+3853 chars]"
+    },
+    {
+    "source": {
+    "id": "financial-times",
+    "name": "Financial Times"
+    },
+    "author": "Kate Beioley, Gill Plimmer, Michael O’Dwyer",
+    "title": "EY break-up plan could pay partners up to $8mn in shares - Financial Times",
+    "description": "Big Four firm hoping to sell 15% of consulting business in $10bn public listing",
+    "url": "https://www.ft.com/content/c4259ef1-285b-4ba6-9f0f-43e3f5a167c4",
+    "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fb7e9bbb5-bea3-4c1a-88e7-72754f4c9379.jpg?source=next-opengraph&fit=scale-down&width=900",
+    "publishedAt": "2022-06-20T17:44:46Z",
+    "content": "EY’s plan to split its audit and advisory operations is set to hand partners shares worth up to $8mn each, according to individuals with knowledge of internal plans.\r\nThe Big Four firm is preparing t… [+3916 chars]"
+    },
+    {
+    "source": {
+    "id": "usa-today",
+    "name": "USA Today"
+    },
+    "author": "Natalie Neysa Alund, USA TODAY",
+    "title": "Warren Buffett will dine with eBay auction winner for $19 million - USA TODAY",
+    "description": "An anonymous donor paid $19 million for a private lunch with Warren Buffett. The proceeds go to a California charity.",
+    "url": "https://www.usatoday.com/story/money/2022/06/20/warren-buffett-ebay-auction-lunch/7681611001/",
+    "urlToImage": "https://www.gannett-cdn.com/-mm-/d8d0774057d19139d16e6ede624d76e89947662d/c=1-0-1365-767/local/-/media/2021/06/26/USATODAY/usatsports/imageforentry18-sbk.jpg?auto=webp&format=pjpg&width=1200",
+    "publishedAt": "2022-06-20T17:38:02Z",
+    "content": "Someone paid $19 million to go to lunch with Warren Buffett.\r\nAnd no, it's not at a buffet. \r\nBuffett, the chairman and chief executive of Berkshire Hathaway, and an unidentified person are set to di… [+1745 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "WPVI-TV"
+    },
+    "author": "Beccah Hendrickson",
+    "title": "Teamsters Local 830 strike for better wages, hours; picket line could impact July 4 beer sales, availability - WPVI-TV",
+    "description": "Workers at three large beer distributors across the Delaware Valley are on strike, demanding better wages and hours.",
+    "url": "https://6abc.com/teamsters-local-830-beer-distributors-strike-alcohol-sales/11981222/",
+    "urlToImage": "https://cdn.abcotvs.com/dip/images/11981165_062022-wpvi-beer-distribution-strike-1230-video-vid.jpg?w=1600",
+    "publishedAt": "2022-06-20T17:36:35Z",
+    "content": "PHILADELPHIA (WPVI) -- Workers at three large beer distributors across the Delaware Valley are on strike, demanding better wages and hours for their workers.Teamsters Local 830 - which represents tho… [+1453 chars]"
+    }
+    ]
+    }
