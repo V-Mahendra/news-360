@@ -36,6 +36,10 @@ const str2 = str.charAt(0).toUpperCase() + str.slice(1);
     return  str?.length > n ? str.substr(0, n -1 ) + "..." : str;
     //truncate operation for short the word or summary length
  }
+ function truncate2 (str , n){
+  return  str?.length > n ? str.substr(0, n -1 ) + " " : str;
+  //truncate operation for short the word or summary length
+}
 
 //  --------------------------------------------------------------------------
 
@@ -52,7 +56,7 @@ const str2 = str.charAt(0).toUpperCase() + str.slice(1);
               <img src={item.urlToImage ? item.urlToImage : notimg} alt="" />
               <p>{item.description}</p>
               <h3> Author : {item.author? truncate (item.author,25): "unknown"}</h3>
-              <h5>{item.publishedAt}</h5>
+              <h5>{truncate2(item.publishedAt, 11)}</h5>
 
               <Button href={item.url} target="_blank">
                 Read More ...

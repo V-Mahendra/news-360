@@ -23,11 +23,18 @@ const NewsDb = () => {
     
  
   function truncate (str , n){
-    return  str?.length > n ? str.substr(0, n -1 ) + "..." : str;
+    return  str?.length > n ? str.substr(0, n -1 ) + "...." : str;
 
     //truncate operation for short the word or summary length
 
  }
+ 
+ function truncate2 (str , n){
+  return  str?.length > n ? str.substr(0, n -1 ) + " " : str;
+
+  //truncate operation for short the word or summary length
+
+}
     // var date = new Date().toDateString();
  
 
@@ -50,7 +57,7 @@ const NewsDb = () => {
               <img src={item.urlToImage ? item.urlToImage :  notimg} alt="" />
               <p>{item.description}</p>
               <h3> Author : {item.author ? item.author : "Unknown"}</h3>
-              <h5>{item.publishedAt}</h5>
+              <h5>{truncate2 (item.publishedAt,11 )}</h5>
               <Button href={item.url} target="_blank" > Read More</Button>  
             </Card>
           );
